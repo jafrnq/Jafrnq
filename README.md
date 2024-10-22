@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jude Francia</h1>
 <h3 align="center">A passionate Automation Tester and photographer from the Philippines</h3>
 
-- 🔭 I’m currently working on [Coffee-Cart-App Test Automation Suite]//Still not available
+- 🔭 I’m currently working on [Coffee-Cart-App Test Automation Suite](https://github.com/jafrnq/Coffee-Cart-App-AutomationPractice)
 
 - 📸 I do hobbyist photography at [https://www.instagram.com/dailies_by_jude/](https://www.instagram.com/dailies_by_jude/)
 
 - 📫 How to reach me **jafrnqchr12@gmail.com || judefrancia.work@gmail.com**
 
+- 📃View my resume here [https://drive.google.com/file/d/1KXRhpQ8MZ7Qma5ZRhHdXpzjUklyOsQiq/view?usp=sharing](https://drive.google.com/file/d/1KXRhpQ8MZ7Qma5ZRhHdXpzjUklyOsQiq/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jude-michael-francia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jude-michael-francia" height="30" width="40" /></a>
+<a href="https://instagram.com/dailies_by_jude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dailies_by_jude" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
