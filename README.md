@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jafrnqchr12@gmail.com || judefrancia.work@gmail.com**
 
-- 📃View my resume here https://drive.google.com/file/d/1RazMYkxY_DYPrhCHzUcA1ypppxdCZaGa/view?usp=sharing
+- 📃View my resume here https://drive.google.com/file/d/1_LePP4cUCTgpaccHiuX-0rkiAaA8Udk7/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
