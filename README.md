@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [The Internet App Test Suite](https://github.com/jafrnq/theInternetHerokuApp)
 
-- 📸 I do hobbyist photography at [https://www.instagram.com/dailies_by_jude/](https://www.instagram.com/dailies_by_jude/)
+- 📸 I do hobbyist photography at [/dailies_by_jude/](https://www.instagram.com/dailies_by_jude/)
 
 - 📫 How to reach me **jafrnqchr12@gmail.com || judefrancia.work@gmail.com**
 
-- 📃View my resume here https://drive.google.com/file/d/1_LePP4cUCTgpaccHiuX-0rkiAaA8Udk7/view?usp=sharing
+- 📃View my resume [HERE] (https://drive.google.com/file/d/1_LePP4cUCTgpaccHiuX-0rkiAaA8Udk7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
