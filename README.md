@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jude Francia</h1>
 <h3 align="center">A passionate Automation Tester and photographer from the Philippines</h3>
 
-- 🔭 I’m currently working on [Coffee-Cart-App Test Automation Suite](https://github.com/jafrnq/Coffee-Cart-App-AutomationPractice)
+- 🔭 I’m currently working on [The Internet App Test Suite](https://github.com/jafrnq/theInternetHerokuApp)
 
 - 📸 I do hobbyist photography at [https://www.instagram.com/dailies_by_jude/](https://www.instagram.com/dailies_by_jude/)
 
